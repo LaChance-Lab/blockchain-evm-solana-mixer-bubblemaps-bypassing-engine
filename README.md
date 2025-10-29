@@ -6,6 +6,11 @@ Stealth mode Solana PumpFun &amp; BonkFun Bundler, bypassing bubblemaps. No bund
 https://t.me/lachancelab
 
 ## Bypassing Bubblemaps Example
+
+Token Creation: https://solscan.io/tx/4cdHZxEYCHcvcTHYqJeHDjuG7JDE33p46YP8JsnQsE5uJH6y6MjtiyffSvbDcBLb9Gxgn3BWzaVAoKBvAVgEkcxy
+
+Buy Tx (2 wallets): https://solscan.io/tx/4FkDdGTokWEfqsjyjk7dbNzg3vuraEm97G8HSswBa2aqpdTUjRJCtosof9mYobVsGRBBLabMBz9HMGmaAAXZLrHF
+
 - Axiom
 https://axiom.trade/meme/GpVngkmcnpximSbfdZT3sucBNaLQFK4LGtjkHQgv3oig?chain=sol
 <img width="1444" height="981" alt="image" src="https://github.com/user-attachments/assets/931f1de2-6511-4404-a76e-dac4138b2c40" />
