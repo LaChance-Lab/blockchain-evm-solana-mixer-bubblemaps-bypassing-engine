@@ -11,15 +11,17 @@ https://t.me/lachancelab
 
 ## Bypassing Bubblemaps Example
 
-Token CA: https://solscan.io/token/3N4Vc9GhWPHdZqYTReofZDCb9zkMZRVi5r7s25Y3cgQF
+Token CA: https://solscan.io/token/3eepgMKJd3ui87V9dvYrBvBokq8x5jjBUfzRq75xiumn
 
-Token Creation and Dev Buy: https://solscan.io/tx/4AqoYQR5ws8SVMCPdHeabUNV4KLGJ1PdNf6DKyJYtVRKYnhgNS91s8tGDL417PM4kEH7W4QSo98nfw9nvoZjvxLH
+Token Creation and Dev Buy: https://solscan.io/tx/RyXEZ6nTiFg7jAXmKwDTkcFpogehEgPbhpPcdzh5vWDJbDfJEbzz7fKgf3QYuFAwPeWcNWnZQmbdXkJP7nJit4Q
 
-Buy Tx (4 wallets): https://solscan.io/tx/5DqSYcQ9FjePGyUseVVgaUBDzKpPBFE9dpgACciRLG8UuXYULckC1mvZQYBBPXQKJWSHirq9tgWngHeMU9BMd1nw
+Buy Tx (8 wallets):
+- https://solscan.io/tx/5CbufGoEuK85n2xMNo6YNF83AYR6kh16zhnsBSFFQ8xBYE1Wka8rryfzyWYX4nQWzQuRvdohU8jbcTjFGnZRZtCe
+- https://solscan.io/tx/4vwL1KMXJPrdPnebV9qcCoXZPo1LyZv14dfQSQJ7vGmHkyB3dL7DVnZqEsqZ8RfbqKknBWUqyWYV9vMX5a329eJe
 
 - Axiom
-[https://axiom.trade/meme/bFPdMZMF36t1chPvTzpvoL5fTocnun7E2n6S7EoarUR?chain=sol](https://axiom.trade/meme/bFPdMZMF36t1chPvTzpvoL5fTocnun7E2n6S7EoarUR?chain=sol)
-<img width="1406" height="963" alt="image" src="https://github.com/user-attachments/assets/338288b7-7ded-4df3-a84b-4c70dc2560b6" />
+[https://axiom.trade/meme/FjDZ8ryVeW4cRKcFtwCV4rRz1hPPG2EW2deGYcLsQVF3?chain=sol](https://axiom.trade/meme/FjDZ8ryVeW4cRKcFtwCV4rRz1hPPG2EW2deGYcLsQVF3?chain=sol)
+<img width="1510" height="868" alt="image" src="https://github.com/user-attachments/assets/d5b05f2c-16a7-44af-93c0-e7a46193aa03" />
 
 
 - DexScreener
