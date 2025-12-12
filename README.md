@@ -3,6 +3,7 @@
 Stealth mode Solana PumpFun &amp; BonkFun Bundler, Raydium Bundler, Meteora DLMM Bundler, Four.meme Bundler bypassing bubblemaps. No bundler flag using Axiom + Bloom Routing Buy
 
 ## Recent Update
+### Added Routing Buy (Axiom, GmGn, Padre, Bloom, Trojan)
 ### Added Pumpfun Create V2 - Token2022(Mayhem Mode + Non Mayhem Mode)
 ### Added Four.meme(BNB)
 ### Added Meteora DLMM 
