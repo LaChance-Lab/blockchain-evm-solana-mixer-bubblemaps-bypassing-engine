@@ -27,23 +27,28 @@ A sophisticated bundler solution that enables **completely undetectable** token 
 ### Solana
 - ✅ **PumpFun** (V2 with Token2022 support)
 - ✅ **BonkFun**
+- ✅ **BonkFun USD1 Pair**
 - ✅ **Raydium**
+- ✅ **Raydium CLMM**
 - ✅ **Meteora DLMM**
 
 ### EVM (BNB Chain)
+- ✅ **UniSwap**
+- ✅ **Pancake Swap**
 - ✅ **Four.meme**
-
+- ✅ **Nad.fun**
 ---
 
 ## 🛠️ Advanced Routing
 
 Execute trades through multiple aggregators to further obfuscate transaction patterns:
 
-- **Axiom** - Advanced routing with MEV protection
-- **Bloom** - Optimized path finding
-- **GmGn** - AI-powered routing
-- **Padre** - Cross-chain aggregation
-- **Trojan** - Stealth routing protocol
+- **Axiom** 
+- **Bloom** 
+- **GmGn**
+- **Padre**
+- **Trojan**
+- **Photon**
 
 ---
 
