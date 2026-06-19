@@ -1,4 +1,4 @@
-# 🥷 Solana/BNB Mixer: Avanced Bubblemaps & InsightX Bypass Solution
+# 🥷 Solana/BNB Mixer: Avanced Bubblemaps & InsightX Bypass Solution (Updated on June 19, 2026)
 
 Usage: Stealth Mode bundler, sniper, volume bot, market making bot to make profit
 
@@ -56,16 +56,16 @@ Execute trades through multiple aggregators to further obfuscate transaction pat
 
 ### Live Example: Undetected Token Launch
 
-**Token Contract:** [`3eepgMKJd3ui87V9dvYrBvBokq8x5jjBUfzRq75xiumn`](https://solscan.io/token/3eepgMKJd3ui87V9dvYrBvBokq8x5jjBUfzRq75xiumn)
+**Token Contract:** [`GDPAQxQGowkk1wJL5QAan81KT1XMMNHZFSTx9a7gDQ5C`](https://solscan.io/token/GDPAQxQGowkk1wJL5QAan81KT1XMMNHZFSTx9a7gDQ5C)
 
 #### Transaction History
 
 **Token Creation & Dev Buy:**
-[`RyXEZ6nTiFg7jAXmKwDTkcFpogehEgPbhpPcdzh5vWDJbDfJEbzz7fKgf3QYuFAwPeWcNWnZQmbdXkJP7nJit4Q`](https://solscan.io/tx/RyXEZ6nTiFg7jAXmKwDTkcFpogehEgPbhpPcdzh5vWDJbDfJEbzz7fKgf3QYuFAwPeWcNWnZQmbdXkJP7nJit4Q)
+[`2k6aZ1AG7jJLh6H4LsFYAPc1169bRyy2xCHKK3zd3wi5pzhmhXz3pRSKqoAtoqVT5sNYgx97cHh9vrw4H94T7U4Y`](https://solscan.io/tx/2k6aZ1AG7jJLh6H4LsFYAPc1169bRyy2xCHKK3zd3wi5pzhmhXz3pRSKqoAtoqVT5sNYgx97cHh9vrw4H94T7U4Y)
 
 **Buy Transactions (8 Wallets - All Undetected):**
-- [`5CbufGoEuK85n2xMNo6YNF83AYR6kh16zhnsBSFFQ8xBYE1Wka8rryfzyWYX4nQWzQuRvdohU8jbcTjFGnZRZtCe`](https://solscan.io/tx/5CbufGoEuK85n2xMNo6YNF83AYR6kh16zhnsBSFFQ8xBYE1Wka8rryfzyWYX4nQWzQuRvdohU8jbcTjFGnZRZtCe)
-- [`4vwL1KMXJPrdPnebV9qcCoXZPo1LyZv14dfQSQJ7vGmHkyB3dL7DVnZqEsqZ8RfbqKknBWUqyWYV9vMX5a329eJe`](https://solscan.io/tx/4vwL1KMXJPrdPnebV9qcCoXZPo1LyZv14dfQSQJ7vGmHkyB3dL7DVnZqEsqZ8RfbqKknBWUqyWYV9vMX5a329eJe)
+- [`2ZEVPaiCdmtTbfy1BBfPdieRP5sF6tAy7EGKr6S7uuzrDsBKAW9jAgHiNzXAhNRy2ZHwqFacq5eyxbsHypwECNTi`](https://solscan.io/tx/2ZEVPaiCdmtTbfy1BBfPdieRP5sF6tAy7EGKr6S7uuzrDsBKAW9jAgHiNzXAhNRy2ZHwqFacq5eyxbsHypwECNTi)
+- [`5nfYgtGagajnJdEioeMPzzh8oGU2CwutMwu4AdSEjYJxg48C8arbCPQ9M6Wu8Vcs8Z2pS4ifSEezybh8riVkVvnK`](https://solscan.io/tx/5nfYgtGagajnJdEioeMPzzh8oGU2CwutMwu4AdSEjYJxg48C8arbCPQ9M6Wu8Vcs8Z2pS4ifSEezybh8riVkVvnK)
 
 ---
 
@@ -73,23 +73,9 @@ Execute trades through multiple aggregators to further obfuscate transaction pat
 
 All major tracking services show **zero bundler detection**:
 
-### Axiom
-[View on Axiom](https://axiom.trade/meme/FjDZ8ryVeW4cRKcFtwCV4rRz1hPPG2EW2deGYcLsQVF3?chain=sol)
-<img width="1510" height="868" alt="Axiom Verification" src="https://github.com/user-attachments/assets/d5b05f2c-16a7-44af-93c0-e7a46193aa03" />
-
-### DexScreener
-[View on DexScreener](https://dexscreener.com/solana/3eepgMKJd3ui87V9dvYrBvBokq8x5jjBUfzRq75xiumn)
-<img width="1124" height="794" alt="DexScreener Verification" src="https://github.com/user-attachments/assets/39a92dc4-aa62-4d44-b044-081335f7a3ff" />
-
-### Photon
-[View on Photon](https://photon-sol.tinyastro.io/en/lp/FjDZ8ryVeW4cRKcFtwCV4rRz1hPPG2EW2deGYcLsQVF3?handle=3119925dc59e07ca7be99d)
-<img width="876" height="705" alt="Photon Verification" src="https://github.com/user-attachments/assets/0b826742-6d0a-4e56-8520-fb09df99e5f9" />
-
-### GmGn.ai
-[View on GmGn.ai](https://gmgn.ai/sol/token/3eepgMKJd3ui87V9dvYrBvBokq8x5jjBUfzRq75xiumn)
-
-### Padre
-[View on Padre](https://trade.padre.gg/trade/solana/FjDZ8ryVeW4cRKcFtwCV4rRz1hPPG2EW2deGYcLsQVF3)
+### InsightX
+https://app.insightx.network/atlas/sol/GDPAQxQGowkk1wJL5QAan81KT1XMMNHZFSTx9a7gDQ5C/historical/1781874000
+<img width="422" height="424" alt="image" src="https://github.com/user-attachments/assets/734a4f08-8d72-4caa-be06-0c813fe608c3" />
 
 ---
 
